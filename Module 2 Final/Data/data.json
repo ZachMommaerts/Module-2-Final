@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Wayne Gretzky",
+        "image": "ambition",
+        "quotes": [
+            "You miss 100% of the shots you don't take.", "When I was 5 and playing against 11-year-olds, who were bigger, stronger, faster, I just had to figure out a way to play with them.", "My kids are no different than anyone else's - they tend to disagree with everything I say!", "The only way a kid is going to practice is if it's total fun for him... and it was for me."
+        ]
+    },
+    {
+        "name": "Mitch Hedberg",
+        "image": "calm",
+        "quotes": [
+            "My fake plants died because I did not pretend to water them.", "My friend asked me if I wanted a frozen banana. I said 'No, but I want a regular banana later, so... yeah.'", "Is a hippopotamus a hippopotamus, or just a really cool Opotamus?", "I'm against picketing, but I don't know how to show it.", "I'm sick of following my dreams. I'm just going to ask them where they're goin', and hook up with them later."
+        ]
+    },
+    {
+        "name": "Robin Williams",
+        "image": "focus",
+        "quotes": [
+            "People say satire is dead. It's not dead; it's alive and living in the White House.", "Spring is nature's way of saying, 'Let's party!'", "Never pick a fight with an ugly person, they've got nothing to lose."
+        ]
+    },
+    {
+        "name": "Michael Jordan",
+        "image": "reflect",
+        "quotes": [
+            "Some people want it to happen, some wish it would happen, others make it happen.", "Talent wins games, but teamwork and intelligence wins championships.", "I've failed over and over and over again in my life and that is why I succeed.", "I can accept failure, everyone fails at something. But I can't accept not trying."
+        ]
+    },
+    {
+        "name": "Vince Lombardi",
+        "image": "reflect2",
+        "quotes": [
+            "Perfection is not attainable, but if we chase perfection we can catch excellence.", "Practice does not make perfect. Only perfect practice makes perfect.", "The only place success comes before work is in the dictionary.", "Winners never quit and quitters never win.", "Leaders are made, they are not born. They are made by hard effort, which is the price which all of us must pay to achieve any goal that is worthwhile."
+        ]
+    }
+]
